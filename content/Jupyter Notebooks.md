@@ -2,10 +2,7 @@
 
 ## Central Limit Theorem
 ![[Central Limit Theorem.ipynb]]
-Simple Example showing a visualisation of how the Central Limit Theorem works
-
-Test123
+Simple Example showing a visualization of how the Central Limit Theorem works.
 
 [notebook-name](https://github.com/zDox/NumCSJupyterNotebook/blob/main/2%20Polynominterpolation.ipynb)
 
-Test 400000
